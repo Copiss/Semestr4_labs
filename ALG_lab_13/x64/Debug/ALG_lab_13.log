@@ -1,0 +1,5 @@
+﻿  ALG_lab_13.cpp
+C:\Users\user\Desktop\Prog-frog\ALG\ALG_lab_13\ALG_lab_13.cpp(14,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Prog-frog\ALG\ALG_lab_13\ALG_lab_13.cpp(30,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Prog-frog\ALG\ALG_lab_13\ALG_lab_13.cpp(31,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ALG_lab_13.vcxproj -> C:\Users\user\Desktop\Prog-frog\ALG\ALG_lab_13\x64\Debug\ALG_lab_13.exe
